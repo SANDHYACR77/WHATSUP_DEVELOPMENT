@@ -6,7 +6,7 @@ Author :  Sandhya CR
 1.Profile page coe  
 2.Chat screen code
 3.Last seen code 
-4.Attachments (Image,  Audio , Video) code
+4.Attachments (Image,  Audio , Video,Documents) code
 5.Hiding the last seen
 6.adding the audio call features
 7.adding the video call features
